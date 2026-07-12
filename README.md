@@ -6,6 +6,9 @@ A simple 2-player local shooting game built with Python and pygame-ce.
 
 Two players control spaceships and try to shoot each other using the same keyboard.
 
+<img width="800" height="802" alt="demo2" src="https://github.com/user-attachments/assets/447c5e9a-8208-4021-82d7-5133ba30c57b" />
+
+
 ### Controls
 
 Player 1:
